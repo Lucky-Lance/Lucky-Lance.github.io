@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the homePage of Xudong Lu
 
-You can use the [editor on GitHub](https://github.com/Lucky-Lance/Lucky-Lance.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+<img src="./figures/my_photo.jpg" alt="my_photo" align='left'  style="zoom:33%;" />
+
+
+
+Do one thing at a time, and do well.
+
+
 
 ### Markdown
 
