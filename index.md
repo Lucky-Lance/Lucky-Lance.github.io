@@ -20,3 +20,5 @@ I am an under graduate student from Department of Computer Science and Technolog
 
 I am now the Deputy Director of the Organization Department of the Youth League Committee of the School of Electronic Information and Electrical Engineering (SEIEE), Shanghai Jiao Tong University. I also served as one of the ministers of the secretariat of the college student union. At present, I also work as the secretary of the Youth League branch of class F1903303.
 
+### Academic Performance
+
