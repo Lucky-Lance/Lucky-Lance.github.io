@@ -14,7 +14,7 @@
 
 
 
-<details>
-    <summary>General Information</summary>
-      I am an under graduate student 
-</details>
+### General Information
+
+I am an under graduate student from Department of Computer Science and Technology,  Shanghai Jiao Tong University (SJTU). 
+
