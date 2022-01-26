@@ -2,11 +2,15 @@
 
 
 
-<img src="./figures/my_photo.jpg" alt="my_photo" align='left'  style="zoom:33%;" />
+<img src="./figures/my_photo.jpg" alt="my_photo" align='left' style="zoom:33%;" />
 
 
 
-Do one thing at a time, and do well.
+
+
+
+
+###### Do one thing at a time, and do well.
 
 
 
