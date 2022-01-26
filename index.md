@@ -2,7 +2,7 @@
 
 
 
-<img src="./figures/my_photo.jpg" alt="my_photo" align='left' style="zoom:33%;" />
+<img src="./figures/my_photo.jpg" alt="my_photo" style="zoom:33%;" />
 
 
 
