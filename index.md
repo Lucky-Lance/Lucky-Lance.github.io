@@ -41,7 +41,7 @@ At present, my average course score is **93.44**, ranking **3 / 121** in my majo
     <p>(CS241)Problem solving and Practice: 95</p>
 </details>
 
-Link to some of my course projects are available in the following list.
+Links to some of my course projects are available in the following list.
 
 <details>
     <summary> Course Projects</summary>
@@ -66,3 +66,4 @@ Link to some of my course projects are available in the following list.
 ### Research Experience
 
 - 2020-2022: intern at MVIG, SJTU [Machine Vision and Intelligence Group @ SJTU (github.com)](https://github.com/MVIG-SJTU)
+
