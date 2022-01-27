@@ -69,4 +69,5 @@ Links to some of my course projects are available in the following list.
 
 ### Public Benefit Activities
 
-- <a href="./contents/public_benefit_activities.md">click here</a>
+- <a href="./contents/public_benefit_activities.html">click here</a>
+
