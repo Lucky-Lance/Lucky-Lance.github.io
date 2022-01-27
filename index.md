@@ -22,7 +22,7 @@ I am now the Deputy Director of the Organization Department of the Youth League 
 
 ### Academic Performance
 
-At present, my average course score is **93.44**, ranking **3 / 121** in my major. I got good grades in some computer related courses. Some detailed course grades is showed in the following List.
+At present, my average course score is **93.44**, ranking **3 / 121** in my major. I got good grades in some computer related courses. Some detailed course grades are showed in the following List.
 
 <details>
     <summary>Course Grades</summary>
