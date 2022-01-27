@@ -1,4 +1,4 @@
-## Welcome to the homePage of Xudong Lu
+## Welcome to the HomePage of Xudong Lu
 
 
 
