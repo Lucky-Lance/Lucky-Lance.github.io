@@ -67,3 +67,6 @@ Links to some of my course projects are available in the following list.
 
 - 2020-2022: intern at MVIG, SJTU [Machine Vision and Intelligence Group @ SJTU (github.com)](https://github.com/MVIG-SJTU)
 
+### Public Benefit Activities
+
+- <a href="./contents/public_benefit_activities.md">click here</a>
