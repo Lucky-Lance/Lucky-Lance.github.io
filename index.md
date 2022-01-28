@@ -16,13 +16,13 @@
 
 ### General Information
 
-I am an under graduate student from Department of Computer Science and Technology,  Shanghai Jiao Tong University (SJTU). 
+I am an under graduate student from Department of Computer Science and Technology,  Shanghai Jiao Tong University [(SJTU)](https://www.sjtu.edu.cn/). 
 
-I am now the Deputy Director of the Organization Department of the Youth League Committee of the School of Electronic Information and Electrical Engineering (SEIEE), Shanghai Jiao Tong University. I also served as one of the ministers of the secretariat of the college student union. At present, I also work as the secretary of the Youth League branch of class F1903303.
+I am now the Deputy Director of the Organization Department of the Youth League Committee of the School of Electronic Information and Electrical Engineering (SEIEE), Shanghai Jiao Tong University. I also served as one of the ministers of the secretariat of the college student union. I also work as the secretary of the Youth League branch of class F1903303.
 
 ### Academic Performance
 
-At present, my average course score is **93.44**, ranking **3 / 121** in my major. I got good grades in some computer related courses. Some detailed course grades are showed in the following List.
+At present, my average course score is **93.44**, ranking **3 / 121** in my major. For two consecutive years, I have been ranked **1 / 121** in the "Comprehensive Assessment of Undergraduates" of my major. I got good grades in some computer related courses. Some detailed course grades are showed in the following list.
 
 <details>
     <summary>Course Grades</summary>
@@ -58,7 +58,7 @@ Links to some of my course projects are available in the following list.
 - 2021: Outstanding League Cadres of Shanghai Jiao Tong University
 - 2021: Outstanding Student Cadres of Shanghai Jiao Tong University
 
-- 2020: National Scholarship
+- 2020: [National Scholarship](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199202.html)
 - 2020: Undergraduate Class A Scholarship of Shanghai Jiao Tong University
 - 2021: National Scholarship
 - 2021: Undergraduate Class A Scholarship of Shanghai Jiao Tong University
