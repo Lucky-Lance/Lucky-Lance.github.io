@@ -73,6 +73,6 @@ I take great pleasure in taking part in public benefit activities.
 
 - I used to be the voluntary docent of [Nantong Museum](http://www.ntmuseum.com/), and was once awarded the title of "Top Ten Docents".
 
-- Since 2012, I have been a member of ["Nantong Zhizhitang Yixue"](http://blog.sina.com.cn/ntguoxue), and since 2019, I have become a volunteer teacher of the school. So far I have organized a total of two "Youth Confucianism" special events. Links to the first two phases [Phase one](https://www.sohu.com/a/336584594_370115), [Phase two](http://blog.sina.com.cn/s/blog_5d8d93d90102yq3w.html) are showed here. I am currently organizing the third phase of the event.
+- Since 2012, I have been a member of ["Nantong Zhizhitang Yixue"](http://blog.sina.com.cn/ntguoxue), and since 2019, I have become a volunteer teacher of the school. So far I have organized a total of three "Youth Confucianism" special events. Links to them  [Phase one](https://www.sohu.com/a/336584594_370115), [Phase two](http://blog.sina.com.cn/s/blog_5d8d93d90102yq3w.html),  [Phase three]([专栏文章 (lofter.com)](http://www.lofter.com/lpost/1cc3dcb4_2b4983d75)) are showed here. The third phase of the events was strongly supported by [Nantong Hospital of Traditional Chinese Medicine](www.ntzyy.com/).
 - I also actively participated in public welfare activities in the university. I have participated in voluntary blood donations, volunteering in the Shanghai Marathon and the Shanghai Half Marathon.
 - More voluntary jobs, to be continued...
